@@ -1,1 +1,3 @@
-# pokedex-helper
+# Pokemon Deck Helper
+
+## This program will
