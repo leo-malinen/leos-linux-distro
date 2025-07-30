@@ -1,3 +1,3 @@
 # Pokemon Deck Helper
 
-## This program will
+## This program will show you the 
