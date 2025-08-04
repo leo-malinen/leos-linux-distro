@@ -1,3 +1,3 @@
 # Pokemon Deck Helper
 
-## This program will show you the 
+## For pokemon TCG (or tcg live), this program will
