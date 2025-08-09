@@ -1,1 +1,1 @@
-# My custom linux distro
+# My custom linux distro and theme
